@@ -1,0 +1,10 @@
+CONFERENCE 2026 SCHEDULE
+========================
+WEDNESDAY:
+  09:00 AM - Registration & Setup
+  01:00 PM - Keynote Presentation
+  03:30 PM - FujiNet Programming Workshop
+
+THURSDAY:
+  10:00 AM - Vendor Exhibition
+  07:00 PM - Hackathon & Social Hour
